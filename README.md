@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Turning+silicon+into+intelligence.;Accelerating+LLM+inference+on+FPGA.;Building+at+the+edge+%E2%80%94+low+latency%2C+low+power.;Open+to+Embedded+AI+%26+FPGA+internships." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=650&lines=Turning+silicon+into+intelligence.;Hardware+%2B+Generative+AI+%2B+Edge+Computing.;Passionate+about+Computer+Vision.;Open+to+Embedded+AI+%26+FPGA+internships." alt="Typing SVG" />
 
 </div>
 
