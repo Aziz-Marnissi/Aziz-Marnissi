@@ -16,11 +16,8 @@
 
 ## 👋 About Me
 
-Electrical Engineering student at **ENIT**, specialized in **hardware and AI** — I design FPGA accelerators and on-device AI systems that squeeze more performance out of every watt and every cycle.
+Electrical Engineering student at **ENIT**, specialized in **hardware and AI**. Passionate about **hardware**, **generative AI**, **edge computing**, and **computer vision** — I love exploring where these worlds meet.
 
-🚀 &nbsp;Accelerated LLM inference kernels on FPGA — **up to 49.9× faster** than CPU
-🛸 &nbsp;Deployed real-time vision on an edge NPU at **40 FPS / 25ms latency** (65× speedup)
-🔧 &nbsp;Built a RISC-V CPU with custom peripherals, validated on bare metal
 🎯 &nbsp;**Open to internships** in Embedded AI · FPGA Engineering · AI Hardware Acceleration
 
 <br/>
