@@ -29,19 +29,6 @@
 <img src="assets/stack.svg" width="100%" alt="Stack: C/C++, Python, VHDL, Vitis HLS, Vivado, ESP32, Jetson, PyTorch, ROS2"/>
 
 
-## GitHub stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aziz-Marnissi&show_icons=true&hide_border=true&bg_color=07060d&title_color=a78bfa&icon_color=fbbf24&text_color=c9c5e0&ring_color=a78bfa&border_radius=12" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Marnissi&layout=compact&hide_border=true&bg_color=07060d&title_color=a78bfa&text_color=c9c5e0&border_radius=12" alt="Top languages"/>
-</div>
-
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-
-**Open to a 4–6 month internship** · Embedded AI · FPGA · AI hardware acceleration
-
-<a href="mailto:aziz.marnissi@etudiant-enit.utm.tn">aziz.marnissi@etudiant-enit.utm.tn</a> · Tunis, Tunisia
-
-</div>
+<a href="mailto:aziz.marnissi@etudiant-enit.utm.tn"><img src="assets/contact.svg" width="100%" alt="Open to a 4–6 month internship: Embedded AI, FPGA, AI hardware acceleration. aziz.marnissi@etudiant-enit.utm.tn, Tunis, Tunisia"/></a>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#fbbf24"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="168" rx="16" fill="#080812" stroke="url(#g)" stroke-opacity=".55"/>
+<circle cx="372" cy="42" r="5" fill="#34d399"/>
+<circle cx="372" cy="42" r="5" fill="none" stroke="#34d399"><animate attributeName="r" values="5;14" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="392" y="47" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" letter-spacing="2" fill="#34d399">AVAILABLE</text>
+<text x="440" y="90" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="url(#g)">Open to a 4–6 month internship</text>
+<text x="440" y="118" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#e5e7eb">Embedded AI  ·  FPGA  ·  AI hardware acceleration</text>
+<text x="440" y="146" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#8b8fa8">aziz.marnissi@etudiant-enit.utm.tn  ·  Tunis, Tunisia</text>
+</svg>
