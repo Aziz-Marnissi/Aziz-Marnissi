@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="46%" valign="top"><img src="hero.gif" width="100%" alt="Face → AI → Chip"></td>
+<td width="46%" valign="top"><img src="hero.gif?v=2" width="100%" alt="Face → AI → Chip"></td>
 <td valign="top">
 
 ```ini
